@@ -7,6 +7,7 @@ module.exports = {
       summary: `...`,
     },
     description: `A laconic blog about finding my way in the programming world with no directions.`,
+    siteUrl: `infallible-archimedes-dcc1d6.netlify.app`,
     defaultImage: "images/bg.jpeg",
   },
   plugins: [
