@@ -6,7 +6,8 @@ module.exports = {
       name: `Kevin Ibay`,
       summary: `...`,
     },
-    description: `A laconic blog about finding my way in the programming world with no directions.`,
+    description: `A blog about finding my way in the programming world, a world with few directions.`,
+    siteUrl: `https://infallible-archimedes-dcc1d6.netlify.app/`,
     defaultImage: "images/bg.jpeg",
   },
   plugins: [
@@ -51,7 +52,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-62251910-1`,
+        trackingId: `UA-180784667-1`,
       },
     },
     `gatsby-plugin-feed`,
