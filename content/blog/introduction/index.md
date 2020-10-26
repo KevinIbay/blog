@@ -28,7 +28,7 @@ In addition, I may ocassionally post about something non-tech related but may be
 
 Language is beautiful and there are a lot of people out there who can articulate my thoughts better than me. I'll sprinkle these quotes throughout my blogs. These quotes may be motivational, thought provoking, humorous, or straight up random in nature. Hopefully, the following quote inspires you the way that it has inspired me.
 
-> If you imagine less, less will be what you undoubtedly deserve. Do what you love, and don’t stop until you get what you love. Work as hard as you can, imagine immensities, don’t compromise, and don’t waste time. Start now. Not 20 years from now, not two weeks from now. Now. - [Debbie Millman](https://www.brainpickings.org/2013/05/15/debbie-millman-look-both-ways-fail-safe/)
+> "If you imagine less, less will be what you undoubtedly deserve. Do what you love, and don’t stop until you get what you love. Work as hard as you can, imagine immensities, don’t compromise, and don’t waste time. Start now. Not 20 years from now, not two weeks from now. Now." - [Debbie Millman](https://www.brainpickings.org/2013/05/15/debbie-millman-look-both-ways-fail-safe/)
 
 ##### Credits & References
 
