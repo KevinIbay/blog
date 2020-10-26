@@ -22,15 +22,15 @@ You must approach learning the same way an athlete approaches his or her sport. 
 
 #### Set an Objective
 
-Set an objective when you're about to learn something new. A navigator without a compass will end up getting lost. Same thing with learning. Set an objective and follow it. Be agile with your objective, if you have to learn something new before reaching the ultimate objective then adjust your route.
+Set an objective when you're about to learn something new. A traveler without a destination is not traveling - he or she is lost. Same thing with learning. Set an objective and follow it. Be agile with your objective, if you have to learn something new before reaching the ultimate objective then adjust your route.
 
 #### Understand the Concept - Don't Memorize
 
-You MUST understand every line of code that you write. If you don't understand why a piece of code is there then question it. Google it. Figure out WHY!
+You MUST understand every line of code that you write. If you don't understand why a piece of code is there then question it. Google it. Figure out the WHY!
 
-There is no shame in googling something. Every person I've worked with still use Google, StackOverflow, and other references to figure out the **_why_** behind code they don't understand. You're doing yourself and any person you work with a huge disservice by not understanding the code that you write.
+There is no shame in googling something. Every person I've worked with still uses Google, StackOverflow, and other references to figure out the **_why_** behind code they don't understand. You're doing yourself a huge disservice by not understanding the code that you write.
 
-Don't memorize code. If you understand the concept then you can recreate it. Memorization is a byproduct of practice, **_not_** an objective of the learning process.
+Don't memorize code. If you understand the concept then you can recreate it. Memorization is a byproduct of repetition, **_not_** an objective of the learning process.
 
 #### Mental Models
 
@@ -44,7 +44,7 @@ When I was learning JS I signed up to Dan Abramov's [Just JavaScript](https://ju
 
 #### Tutorials
 
-Be wary of tutorial hell. Any dumbass (sorry) can follow along a tutorial and parrot the code in front of them. Don't be a dumbass. Yes, follow the tutorial, but, don't blindly follow it. Understand why the code is being written and how it works. Once the tutorial is done, add something new. See a line of code that is being repeated? Write a function and refactor the tutorial code.
+Be wary of tutorial hell. Any dumbass (sorry) can follow along with a tutorial and parrot the code in front of them. Don't be a dumbass. Yes, follow the tutorial, but, don't blindly follow it. Understand why the code is being written and how it works. Once the tutorial is done, add something new. See a line of code that is being repeated? Write a function and refactor the tutorial code. Following a to-do list task? Add a counter that counts how many tasks are on the list and display it. However simple it may be, add something to the tutorial code.
 
 Push beyond you're comfort zone. Make progress every time you sit down to learn, it doesn't matter how little progress you make. Progress is progress.
 [No ZERO Days](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/)!
@@ -55,7 +55,7 @@ Remember when I said you can apply these techniques outside of tech? Well I lear
 
 When I was learning JavaScript, I frequently referenced [the Google JS style guide](https://google.github.io/styleguide/jsguide.html) to make sure that I was following the industry standards on writing JS.
 
-If you're following a tutorial and you don't understand a part then repeat it. Didn't understand it again? Well, repeat it again!
+If you're following a tutorial and you don't understand a part then repeat it. Didn't understand it again? Well, repeat it again! Repetition is key to learning but ensure that you repeat good habits.
 
 #### Learning Techniques
 
@@ -64,10 +64,10 @@ There's a lot of information out there about different learning techniques so I'
 My technique is the Pomodoro technique. Here's how it goes:
 
 - Set a timer to 25 minutes and focus on learning for 25 minutes
-- 5 minute breaks in between the 25 minute block
+- 5 minute break is set in-between the 25 minute blocks
 - Rinse and Repeat
 
-You will inevitably find yourself getting distracted during the 25 minute focus time. When you get distracted, write down the distracting thought and visit it during the 5 minute breaks.
+You will might find yourself getting distracted during the 25 minute focus time. When you get distracted, write down the distracting thought and visit it during the 5 minute breaks.
 
 Here is the link to the [pomodoro timer that I use](https://tomato-timer.com/).
 
