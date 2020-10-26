@@ -33,6 +33,6 @@ Language is beautiful and there are a lot of people out there who can articulate
 ##### Credits & References
 
 This blog was created using [Leonid's Starter](https://github.com/renyuanz/leonids).
-The plan is to create a blog from scratch but I wanted to get my thoughts out before I lose 'em.
+The plan was to create a blog from scratch but I wanted to get my thoughts out before I lose 'em.
 
 I stumbled upon the Debbie Millman quote while reading [Maria Popova's brainpickings blog](https://www.brainpickings.org/2013/05/15/debbie-millman-look-both-ways-fail-safe/).
