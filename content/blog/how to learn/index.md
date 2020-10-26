@@ -1,6 +1,6 @@
 ---
 title: How to Learn
-date: "2020-10-17"
+date: "2020-10-25"
 description: "General tips I've picked up and applied when learning new concepts."
 categories: [hello world]
 comments: false
