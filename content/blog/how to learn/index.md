@@ -2,7 +2,7 @@
 title: How to Learn
 date: "2020-10-25"
 description: "General tips I've picked up and applied when learning new concepts."
-categories: [hello world]
+categories: [learning]
 comments: false
 image:
   feature: https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
@@ -44,7 +44,7 @@ When I was learning JS I signed up to Dan Abramov's [Just JavaScript](https://ju
 
 #### Tutorials
 
-Be wary of tutorial hell. Any dumbass (sorry) can follow along with a tutorial and parrot the code in front of them. Don't be a dumbass. Yes, follow the tutorial, but, don't blindly follow it. Understand why the code is being written and how it works. Once the tutorial is done, add something new. See a line of code that is being repeated? Write a function and refactor the tutorial code. Following a to-do list task? Add a counter that counts how many tasks are on the list and display it. However simple it may be, add something to the tutorial code.
+Be wary of tutorial hell. Any dumbass (sorry) can follow along with a tutorial and parrot the code in front of them. Don't be a dumbass. Yes, follow the tutorial, but, don't blindly follow it. Understand why the code is being written and how it works. Once the tutorial is done, add something new. See a line of code that is being repeated? Write a function and refactor the tutorial code. Following a to-do list tutorial? Add a counter that counts how many tasks are on the list and display it. However simple it may be, add something to the tutorial code.
 
 Push beyond you're comfort zone. Make progress every time you sit down to learn, it doesn't matter how little progress you make. Progress is progress.
 [No ZERO Days](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/)!
@@ -77,7 +77,7 @@ I aim for a minimum three 25 minute blocks every day because of [Ben Franklin's 
 
 If you're like me, then you'll find yourself suffering from [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) at some point in your career.
 
-[Here is a video of Googlers and how they overcame impostor syndrome](https://youtu.be/pIvWpLgNWPA)
+[Here is a video of Googlers and how they handle impostor syndrome](https://youtu.be/pIvWpLgNWPA)
 
 And now I present to you this week's closing quote...
 
