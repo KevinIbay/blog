@@ -99,7 +99,9 @@ You probably thought at some point in the project that I didn't _need_ to use cl
 ##### Credits & References
 
 Fetch API - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
 Promises - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
+
 Async/Await - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await
 
 Asynchronous JS- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous
